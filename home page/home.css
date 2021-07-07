@@ -1,0 +1,99 @@
+.food{margin:1%;
+    padding: 1%;
+    font-style:italic;
+    background-color: rgb(202, 184, 132);
+  border-radius: 10px;
+  overflow: auto;
+}
+.foodstation{
+    padding:2%;
+    margin: 1%;
+    border-radius:10px;
+    background-image: url("img1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: lemonchiffon;
+}
+
+nav ul{padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 10px;
+    overflow: auto;
+    background-color:#6b432a;
+}
+nav li{ 
+    float: left;
+    list-style: none;
+    
+    
+}
+ li a{padding-left:5vw;
+    padding-right: 5vw;
+    float: left;
+   
+    
+    text-decoration: none;
+    color:lemonchiffon;
+}
+body{
+    background-color:teal;
+}
+    h2{padding-left: 2%;
+        
+        font-style: italic;
+        color: #6b432a;
+    }
+    img{
+        margin: 1%;
+        padding-left:2%;
+        width: 16%;
+        float: left;
+    
+    }
+    h4{ font-size:larger;
+    
+        font-style: italic;
+        color: #6b432a;
+    }
+
+.recipies a{ margin-right:4%;
+    padding:10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: lemonchiffon;
+    background-color:#6b432a;
+    float: right;
+}
+.top{
+    overflow: auto;
+}
+.socialmedia{ margin: 1%; 
+    padding: 2%;
+    background-color: #6b432a;
+    color: lemonchiffon;
+    border-radius: 10px
+    ;float: left;
+    padding: 2%;
+}
+.apps{overflow: auto;
+    background-color: #6b432a;
+    border-radius: 10px;
+    text-decoration: none;
+    list-style: none;
+    padding: 1%;
+    margin-right: 2%;
+}
+.apps li{float: left;
+    text-decoration: none;
+   
+}
+.over{
+  overflow: auto;   
+}
